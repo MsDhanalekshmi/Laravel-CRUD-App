@@ -1,6 +1,11 @@
 # Laravel-CRUD-App
 This GitHub repository contains a Laravel CRUD application that was developed as a university assignment. The application allows users to create, read, update, and delete data for a variety of entities
 
+## Demo Video
+
+![](https://github.com/MsDhanalekshmi/Laravel-CRUD-App/blob/master/demo.gif)
+
+
 ## To use this repository:
 
 Clone the repository 
